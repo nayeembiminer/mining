@@ -16,7 +16,7 @@
 
 ### ✨ Features
 
-- 🧠 **Smart Installer** – Installs XMRig from your GitHub link
+- 🧠 **Smart Installer** – Installs XMRig from GitHub link
 - ⚙️ **Auto Config Generator** – Creates `config.json` with your input
 - 📁 **Persistent Settings** – Remembers config and allows updates
 - 🎨 **Beautiful CLI UI** – Styled banner and user-friendly prompts
