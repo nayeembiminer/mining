@@ -27,4 +27,4 @@
 ### 🚀 Quick Install
 
 ```bash
-curl -s https://raw.githubusercontent.com/nayeembiminer/mining/main/install_xmrig.sh | bash
+curl -s https://raw.githubusercontent.com/nayeembiminer/mining/main/plum_miner_x_.sh | bash
